@@ -1,6 +1,6 @@
 // src/Hello.java
 
-''' practice line '''
+// 2026 test line
 
 public class Hello {
     public static void main(String[] args) {
